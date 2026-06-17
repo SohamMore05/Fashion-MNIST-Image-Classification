@@ -38,10 +38,9 @@ Fashion MNIST consists of 70,000 grayscale images across 10 clothing categories:
 - Softmax Output
 
 ## Results
-
-- Training Accuracy: XX%
-- Validation Accuracy: XX%
+Training Accuracy (Epoch 5): 89.44%
+Validation Accuracy (Epoch 5): 89.76%
+Test Loss: 0.2816
 
 ## Author
-
 Soham More
